@@ -1,6 +1,6 @@
-# AWS CLOUD PORTFOLIO
+<h2 align='center'> AWS CLOUD PORTFOLIO </h2>
 
-👋 HI I AM SIPHESIHLE SEPHAKA
+<h1>👋 HI I AM SIPHESIHLE SEPHAKA </h1>
 
 
 This repository showcases my hands-on experience with cloud computing concepts and AWS services.
