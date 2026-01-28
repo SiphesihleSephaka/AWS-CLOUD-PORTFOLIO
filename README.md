@@ -1,4 +1,4 @@
-<h2 align='center'> AWS CLOUD PORTFOLIO </h2>
+<h3 align='center'> AWS CLOUD PORTFOLIO </h3>
 
 <h1>👋 HI I AM SIPHESIHLE SEPHAKA </h1>
 
