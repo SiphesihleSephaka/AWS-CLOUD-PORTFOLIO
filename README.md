@@ -1,4 +1,4 @@
-# AWS Cloud Portfolio
+# 👋 HI I AM SIPHESIHLE SEPHAKA
 
 This repository showcases my hands-on experience with cloud computing concepts and AWS services.
 It includes practical labs, projects, and certifications completed as part of structured cloud training and independent learning.
