@@ -48,6 +48,17 @@ Documentation and evidence of completed cloud learning paths and simulations.
 ### 📁Projects
 End-to-end cloud projects demonstrating applied knowledge, architecture design, and deployment.
 
+</br>
+
+<ul>
+  <li>
+    <a href="https://github.com/SiphesihleSephaka/local-coffee-shop.git" 
+       style="text-decoration: none; color: #0366d6; font-weight: bold;">
+       AWS Migration for Café Hosting Project
+    </a>
+  </li>
+</ul>
+
 ---
 
 ## Author
