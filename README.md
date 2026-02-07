@@ -34,6 +34,8 @@ Python
 ### 📁Certifications & Badges
 Documentation and evidence of completed cloud learning paths and simulations.
 
+<a>"Certifications & Badges/Picture/simu learn cert systems in cloud.png"</a>
+
 ---
 
 ### 📁Projects
