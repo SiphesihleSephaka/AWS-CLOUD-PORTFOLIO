@@ -21,7 +21,7 @@ This portfolio is designed to grow as I continue working on cloud-based solution
 ### Labs
 Hands-on labs focused on core cloud infrastructure concepts.
 
-📁 <a href="#Compute">Compute</a>
+📁 <a href="LABS/Compute">Compute</a> 
 
 📁 Networking
 
