@@ -27,8 +27,14 @@ Hands-on labs focused on core cloud infrastructure concepts.
 
 📁 Python 
 
+
+---
+
+
 ### Certifications & Badges
 Documentation and evidence of completed cloud learning paths and simulations.
+
+---
 
 ### Projects
 End-to-end cloud projects demonstrating applied knowledge, architecture design, and deployment.
