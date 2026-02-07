@@ -16,12 +16,12 @@ This portfolio is designed to grow as I continue working on cloud-based solution
 
 ---
 
-## Repository Structure
+## Repository Structure 
 
 ### Labs
 Hands-on labs focused on core cloud infrastructure concepts.
 
-📁 Compute 
+📁 <a href="#Compute">Compute</a>
 
 📁 Networking
 
