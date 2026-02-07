@@ -30,9 +30,9 @@ This portfolio will continue to grow as I expand my expertise in cloud solutions
 Practical exercises that demonstrate the use of AWS services for different cloud concepts.
 
 <ul>
-  <li><a href="LABS/Compute">Compute</a></li>
-  <li><a href="LABS/Networking"> Networking</a></li>
-  <li><a href="LABS/Python"> Python </a></li>
+  <li><a href="LABS/Compute.md">Compute</a></li>
+  <li><a href="LABS/Networking.md"> Networking</a></li>
+  <li><a href="LABS/Python.md"> Python </a></li>
 </ul>
 
 Each lab focuses on a specific area of cloud computing, providing step-by-step documentation and screenshots.
