@@ -21,6 +21,12 @@ This portfolio is designed to grow as I continue working on cloud-based solution
 ### Labs
 Hands-on labs focused on core cloud infrastructure concepts.
 
+📁 Compute 
+
+📁 Networking
+
+📁 Python 
+
 ### Certifications & Badges
 Documentation and evidence of completed cloud learning paths and simulations.
 
