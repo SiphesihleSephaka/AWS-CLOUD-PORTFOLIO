@@ -18,25 +18,25 @@ This portfolio is designed to grow as I continue working on cloud-based solution
 
 ## Repository Structure 
 
-### Labs
+### 📁Labs
 Hands-on labs focused on core cloud infrastructure concepts.
 
-📁 <a href="LABS/Compute">Compute</a> 
+<a href="LABS/Compute">Compute</a> 
 
-📁 Networking
+Networking
 
-📁 Python 
+Python 
 
 
 ---
 
 
-### Certifications & Badges
+### 📁Certifications & Badges
 Documentation and evidence of completed cloud learning paths and simulations.
 
 ---
 
-### Projects
+### 📁Projects
 End-to-end cloud projects demonstrating applied knowledge, architecture design, and deployment.
 
 ---
