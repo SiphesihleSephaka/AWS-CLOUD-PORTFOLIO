@@ -4,7 +4,7 @@ Hands-on exercises focused on core cloud infrastructure concepts. These practica
 
 They are broken down into 3 categories:
 <ul>
-  <li><a href="/Compute">Compute</a></li>
+  <li><a href="Compute">Compute</a></li>
   <li>Networking</li>
   <li>Python</li>
 </ul>
