@@ -34,7 +34,14 @@ Python
 ### 📁Certifications & Badges
 Documentation and evidence of completed cloud learning paths and simulations.
 
-<img src="Certifications & Badges/Picture/simu learn cert systems in cloud.png"/>
+</br>
+
+<h3 align='center'> AWS SimuLearn : File Systems in the cloud certificate </h3>
+
+<div align="center">
+  <img src="Certifications & Badges/Picture/simu learn cert systems in cloud.png" width="400">
+</div>
+
 
 ---
 
