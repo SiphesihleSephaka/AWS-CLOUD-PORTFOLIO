@@ -1,6 +1,11 @@
 <h1 align="center"> AWS Cloud Portfolio</h1>
 
 <h3 align="center">👋 Hi, I’m <b>Siphesihle Sephaka</b></h3>
+<div align="center">
+  <img src="formal picture.png" 
+       style="width:400px; border-radius:10px;">
+</div>
+
 
 ---
 
