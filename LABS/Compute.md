@@ -1,12 +1,11 @@
 <h1 align="center"> CREATING AN EC2 INSTANCE LAB EXCERCISE </h1> 
 
-<p> In this lab I used Secure Shell to access an Amazon Linux AMI within Vocareum labs</p>
+<h3> In this lab I used Secure Shell to access an Amazon Linux AMI within Vocareum labs</h3>
 
-<h3> TASK 1: Use SHH to connect to an Amazon Linux EC2 instance </h3>
+</br>
 
-<div align="center">
-  <img src="Certifications & Badges/Picture/simu learn cert systems in cloud.png" 
-       alt="AWS SimuLearn Certificate - File Systems in the Cloud"
-       style="width:400px; border-radius:10px;">
-</div>
+<p><b>TASK 1: Use SSH to connect to an Amazon Linux EC2 instance</b></p>
 
+<img src="pictures/compute/credentials.png" alt="AWS Lab Credentials" width="350">
+
+<p> This is where I viewed the details of the lab to get the credentials and the IP Address, which I later used to connect to the instance. </p>
