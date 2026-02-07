@@ -1,1 +1,1 @@
-<h1 aling="center"> CREATING AN EC2 INSTANCE LAB EXCERCISE </h1> 
+<h1 align="center"> CREATING AN EC2 INSTANCE LAB EXCERCISE </h1> 
