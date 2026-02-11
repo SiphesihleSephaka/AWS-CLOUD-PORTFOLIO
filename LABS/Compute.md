@@ -20,6 +20,16 @@
 
 <p> After configuring PuTTy </p>
 
+<div align="center">
 
+<img src="pictures/compute/credentials.png" alt="AWS Lab Credentials" width="350">
+
+</div>
 
 <p> I opened the PuTTy terminal and Entered: man man </p>
+
+<div align="center">
+
+<img src="pictures/compute/credentials.png" alt="AWS Lab Credentials" width="350">
+
+</div>
