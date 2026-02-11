@@ -17,3 +17,9 @@
 </br>
 
 <p><b>TASK 2: Explore the Linux man pages</b></p>
+
+<p> After configuring PuTTy </p>
+
+
+
+<p> I opened the PuTTy terminal and Entered: man man </p>
