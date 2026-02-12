@@ -36,3 +36,12 @@
 
 <p>4. Configuring a key pair: Selected proceed without </p>
 
+</br>
+
+<div align="center">
+<img src="pictures/compute/vpc.png" alt="AWS Lab Credentials" width="400">
+</div>
+
+<p>5. Configuring the network settings: for VPC I selected Lab VPC</p>
+
+
