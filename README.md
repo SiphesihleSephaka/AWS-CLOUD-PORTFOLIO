@@ -24,18 +24,44 @@ This portfolio will continue to grow as I expand my expertise in cloud solutions
 
 ---
 
-## 📂 Repository Structure
+<h1 align="center"> 📂 Repository Structure </h1>
 
 ### 🧪 Labs
 Practical exercises that demonstrate the use of AWS services for different cloud concepts.
 
-<ul>
-  <li><a href="LABS/Compute.md">Compute</a></li>
-  <li><a href="LABS/Networking.md"> Networking</a></li>
-  <li><a href="LABS/Python.md"> Python </a></li>
-</ul>
+<!-- Borderless 3-column table -->
+<table border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <!-- Compute Column -->
+    <td valign="top" width="33%">
+      <h4>⚙️ Compute</h4>
+      <ul>
+        <li><a href="LABS/Compute" style="text-decoration:none; color:#0366d6;">Launch and Connect to EC2</a></li>
+        <li>Create AMI and Snapshots</li>
+        <li>Manage Auto Scaling Groups</li>
+      </ul>
+    </td>
+    <!-- Networking Column -->
+    <td valign="top" width="33%">
+      <h4>🌐 Networking</h4>
+      <ul>
+        <li>Set Up VPC and Subnets</li>
+        <li>Configure Security Groups</li>
+        <li>Implement Load Balancing</li>
+      </ul>
+    </td>
+    <!-- Python Column -->
+    <td valign="top" width="33%">
+      <h4>🐍 Python</h4>
+      <ul>
+        <li>Use Boto3 to Automate AWS</li>
+        <li>Analyze S3 Data</li>
+        <li>Deploy Python Script on EC2</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-Each lab focuses on a specific area of cloud computing, providing step-by-step documentation and screenshots.
 
 ---
 
