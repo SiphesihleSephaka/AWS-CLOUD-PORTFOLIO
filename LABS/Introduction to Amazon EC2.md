@@ -44,4 +44,12 @@
 
 <p>5. Configuring the network settings: for VPC I selected Lab VPC</p>
 
+</br>
 
+<div align="center">
+<img src="pictures/compute/sec grp.png" alt="AWS Lab Credentials" width="400">
+</div>
+
+<p> Security Group name : Web Security Group</p>
+<p>Description: Security Group for my web server</p>
+<p> A security group acts as a virtual firewall that controls the traffic for one or more instances. When you launch an instance, you associate one or more security groups with the instance. </p>
