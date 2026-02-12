@@ -57,6 +57,21 @@ Evidence of my cloud learning journey and achievements.
 
 This certification confirms my understanding of **AWS storage architecture**, including EBS, S3, and shared file systems in cloud environments.
 
+
+</br></br>
+
+<h3 align='center'>AWS Cloud Quest: Cloud Practitioner Badge</h3>
+
+<div align="center">
+  <img src="Certifications & Badges/Picture/aws-cloud-quest-cloud-practitioner-training-badge (1).png" 
+       alt="AWS Cloud Quest Badge"
+       style="width:400px; border-radius:10px;">
+</div>
+
+<br>
+
+This badge shows that I have basic knowledge of building solutions using **AWS services** and understand key cloud concepts. It also proves that I have hands-on experience with compute, networking, database, and security services.
+
 ---
 
 ### 🚀 Projects
