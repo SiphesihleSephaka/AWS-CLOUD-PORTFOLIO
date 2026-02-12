@@ -54,11 +54,20 @@
 <p>Description: Security Group for my web server</p>
 <p> A security group acts as a virtual firewall that controls the traffic for one or more instances. When you launch an instance, you associate one or more security groups with the instance. </p>
 
-
 </br>
 
 <div align="center">
 <img src="pictures/compute/storage.png" alt="AWS Lab Credentials" width="400">
 </div>
 
-<p>Adding Storage: Amazon EC2 stores data on a network-attached virtual disk called Amazon Elastic Block Store (Amazon EBS). EC2 instance is a default 8 GiB disk volume</p>
+<p>6. Adding Storage: Amazon EC2 stores data on a network-attached virtual disk called Amazon Elastic Block Store (Amazon EBS). EC2 instance is a default 8 GiB disk volume</p>
+
+
+</br>
+
+<div align="center">
+<img src="pictures/compute/user data.png" alt="AWS Lab Credentials" width="400">
+</div>
+
+<p> Configuring Advance details:This is where I enabled Termination Protection and entered the commands to the user data text box </p>
+<p>The script does the following: Install an Apache web server (httpd) , Configure the web server to automatically start on boot , Activate the Web server, Create a simple web page</p>
