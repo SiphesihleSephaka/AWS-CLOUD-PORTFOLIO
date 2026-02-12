@@ -36,7 +36,7 @@ Practical exercises that demonstrate the use of AWS services for different cloud
     <td valign="top" width="33%">
       <h4>⚙️ Compute</h4>
       <ul>
-        <li><a href="LABS/Compute" style="text-decoration:none; color:#0366d6;">Launch and Connect to EC2</a></li>
+        <li><a href="LABS/Introduction to Amazon EC2.md" style="text-decoration:none; color:#0366d6;">Launch and Connect to EC2</a></li>
         <li>Create AMI and Snapshots</li>
         <li>Manage Auto Scaling Groups</li>
       </ul>
