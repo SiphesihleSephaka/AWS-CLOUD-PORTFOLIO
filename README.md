@@ -65,7 +65,7 @@ This certification confirms my understanding of **AWS storage architecture**, in
 <div align="center">
   <img src="Certifications & Badges/Picture/aws-cloud-quest-cloud-practitioner-training-badge (1).png" 
        alt="AWS Cloud Quest Badge"
-       style="width:400px; border-radius:10px;">
+       style="width:300px; border-radius:10px;">
 </div>
 
 <br>
