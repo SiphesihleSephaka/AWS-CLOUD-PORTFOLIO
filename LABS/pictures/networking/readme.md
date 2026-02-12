@@ -1,2 +1,2 @@
-## Pictures related to NETWORJING labs
+## Pictures related to NETWORKING labs
 
