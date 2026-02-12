@@ -69,5 +69,5 @@
 <img src="pictures/compute/user data.png" alt="AWS Lab Credentials" width="400">
 </div>
 
-<p> Configuring Advance details:This is where I enabled Termination Protection and entered the commands to the user data text box </p>
+<p> 7. Configuring Advance details:This is where I enabled Termination Protection and entered the commands to the user data text box </p>
 <p>The script does the following: Install an Apache web server (httpd) , Configure the web server to automatically start on boot , Activate the Web server, Create a simple web page</p>
