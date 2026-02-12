@@ -28,4 +28,11 @@
 </div>
 <p>3. This is where I was choosing an instance type. I selected t3.micro instance  </p>
 
+</br>
+
+<div align="center">
+<img src="pictures/compute/key pair.png" alt="AWS Lab Credentials" width="400">
+</div>
+
+<p>4. Configuring a key pair: Selected proceed without </p>
 
