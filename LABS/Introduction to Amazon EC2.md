@@ -24,9 +24,8 @@
 </br> 
 
 <div align="center">
-<img src="pictures/compute/ami.png" alt="AWS Lab Credentials" width="400">
+<img src="pictures/compute/instance type.png" alt="AWS Lab Credentials" width="400">
 </div>
-
-<p>3. </p>
+<p>3. This is where I was choosing an instance type.  </p>
 
 
