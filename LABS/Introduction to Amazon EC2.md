@@ -4,8 +4,14 @@
 
 </br>
 
-<p><b>TASK 1: Launching your EC2 instance </b></p>
+<h3><b>TASK 1: Launching your EC2 instance </b></h3>
 
 <div align="center">
-<!--<img src="pictures/compute/credentials.png" alt="AWS Lab Credentials" width="350">
+<img src="pictures/compute/launch.png" alt="AWS Lab Credentials" width="350">
 </div>
+
+<p>I opened the AWS Management Console and Select EC2 services where I selected LAUNCH INSTANCE and named my Instance "Web Server"</p>
+
+
+
+
