@@ -53,3 +53,12 @@
 <p> Security Group name : Web Security Group</p>
 <p>Description: Security Group for my web server</p>
 <p> A security group acts as a virtual firewall that controls the traffic for one or more instances. When you launch an instance, you associate one or more security groups with the instance. </p>
+
+
+</br>
+
+<div align="center">
+<img src="pictures/compute/storage.png" alt="AWS Lab Credentials" width="400">
+</div>
+
+<p>Adding Storage: Amazon EC2 stores data on a network-attached virtual disk called Amazon Elastic Block Store (Amazon EBS). EC2 instance is a default 8 GiB disk volume</p>
