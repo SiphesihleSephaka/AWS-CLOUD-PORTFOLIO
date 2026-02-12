@@ -26,6 +26,6 @@
 <div align="center">
 <img src="pictures/compute/instance type.png" alt="AWS Lab Credentials" width="400">
 </div>
-<p>3. This is where I was choosing an instance type.  </p>
+<p>3. This is where I was choosing an instance type. I selected t3.micro instance  </p>
 
 
