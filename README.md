@@ -124,11 +124,14 @@ Hands-on projects that apply cloud theory into practical real-world deployments.
 
 <div align="center">
  <img src="Projects/architecture diagram.png" 
-       style="width:700px; border-radius:10px;">
+       style="width:600px; border-radius:10px;">
 </div>
 
 <h3><b>Summary</b></h3>
 <p>This architecture uses a globally distributed CDN, object storage for 3D assets, a mix of serverful and serverless compute for APIs and background jobs, managed databases for transactional and catalogue data, caching for low-latency interactions, and AWS security & monitoring services to meet the startup's needs for high availability, scalability, performance, security, and cost optimization.</p>
+
+<p>Link to the project: </p> <a href="Projects/Siphesihle Sephaka_3D_Ecommerce_AWS_Architecture.pdf" 
+       style="text-decoration:none; color:#0366d6; font-weight:bold;"> 3D Ecommerce AWS Architecture </a>
 
 
 
