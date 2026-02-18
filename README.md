@@ -104,6 +104,7 @@ This badge shows that I have basic knowledge of building solutions using **AWS s
 
 Hands-on projects that apply cloud theory into practical real-world deployments.
 
+<h1> Project 1</h1>
 <ul>
   <li>
     <a href="https://github.com/SiphesihleSephaka/local-coffee-shop.git" 
@@ -117,6 +118,11 @@ Hands-on projects that apply cloud theory into practical real-world deployments.
     </p>
   </li>
 </ul>
+</br>
+
+<h1> Project 2: 3D E-Commerce AWS Architecture </h1>
+
+
 
 ---
 
