@@ -122,6 +122,14 @@ Hands-on projects that apply cloud theory into practical real-world deployments.
 
 <h1> Project 2: 3D E-Commerce AWS Architecture </h1>
 
+<div align="center">
+ <img src="Projects/architecture diagram.png" 
+       style="width:700px; border-radius:10px;">
+</div>
+
+<h3><b>Summary</b></h3>
+<p>This architecture uses a globally distributed CDN, object storage for 3D assets, a mix of serverful and serverless compute for APIs and background jobs, managed databases for transactional and catalogue data, caching for low-latency interactions, and AWS security & monitoring services to meet the startup's needs for high availability, scalability, performance, security, and cost optimization.</p>
+
 
 
 ---
