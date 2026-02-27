@@ -98,6 +98,23 @@ This certification confirms my understanding of **AWS storage architecture**, in
 
 This badge shows that I have basic knowledge of building solutions using **AWS services** and understand key cloud concepts. It also proves that I have hands-on experience with compute, networking, database, and security services.
 
+
+<br>
+
+<h3 align='center'>AWS SimuLearn: Core Security Concepts Certificate</h3>
+
+<div align="center">
+  <img src="Certifications & Badges/Picture/sec cert.png" 
+       alt="AWS SimuLearn Certificate - File Systems in the Cloud"
+       style="width:400px; border-radius:10px;">
+</div>
+
+<br>
+
+In this activity, I learned about how **IAM users, roles, and groups** work and how to create them. I also looked at the structure of **IAM policies** to understand how permissions are set. I studied the **AWS Shared Responsibility Model** to know which security parts are handled by AWS and which ones I must manage. I also learned about compliance programs and followed **IAM best practices** to keep access secure.
+
+The AWS services I used were **Amazon EC2**, **AWS Identity and Access Management (IAM)**, and **Amazon RDS**.
+
 ---
 
 ### 🚀 Projects
