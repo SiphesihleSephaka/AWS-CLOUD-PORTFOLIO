@@ -149,6 +149,29 @@ Hands-on projects that apply cloud theory into practical real-world deployments.
 <p>Link to the project: <a href="Projects/Siphesihle Sephaka_3D_Ecommerce_AWS_Architecture.pdf" 
        style="text-decoration:none; color:#0366d6; font-weight:bold;"> 3D Ecommerce AWS Architecture </a> </p>
 
+</br>
+<h1> Project 3: Create You Interactive Chatbot Using AWS LEX </h1>
+
+<h3>Introduction to Amazon Lex</h3>
+<p>Amazon Lex is a powerful service provided by AWS for building conversational interfaces into any application using voice and text. It uses the same deep learning technologies that power Amazon Alexa, enabling developers to create sophisticated, natural language chatbots with relative ease. Lex can understand user intent, manage conversation flow, and integrate seamlessly with other AWS services to provide dynamic and context-aware responses. For this project, we harnessed the capabilities of Amazon Lex to build an interactive educational chatbot that goes beyond simple question and answer, creating an engaging quiz experience for students.</p>
+
+<h3> Client Requirements</h3>
+
+<p><b>Outlining the client's requirements for an educational chatbot that provides an interactive quiz experience for students.</b> </br>
+CloudLearners Inc. Approached us as a company to build an educational chatbot that would engage their students and enhance learning through interaction.
+Through that educational chatbot, students should be able to do quizzes that are interactive and not only give them answers but also teach them concepts. The chatbot should be able to give students more knowledge mapping or keywords that would help them in answering the questions. The chatbot should implement quizzes that have different levels of questioning, say for instance a student is starting out on a topic, quiz them on that level of starting out, and gradually increase intensity or difficulty of the quiz question. The chatbot should be able to give feedback to the progress of the students; by doing so, it will motivate the students, and they will also be able to track their progress and know their areas of improvements. The chatbot should quiz students with multiple question styling or format, be given the ability to choose either A, B, C or D. Implement easy starting out keywords when prompted like "start quiz" or "test me on Amazon S3" The chatbot should be user- friendly and interactive. The chatbot should give students instant feedback after taking the quiz so that students know when they are wrong.
+ </p>
+
+<h3>Solutions Overview</h3>
+<b>Technical Implememtation</b> 
+
+<p> In building our quiz chatbot using Amazon Lex, we created separate intents to represent different parts of the quiz, like when starting the quiz and answering questions. Each intent contained several utterances (these are phrases users might use) like when starting the quiz you might say, "Start the quiz," or "I'm ready" for us it was "Quiz me on S3". </br>
+We also used AWS Lambda to help manage part of the quiz process and control how the quiz moves from one question to the next. The combination of Amazon Lex for handling conversations and AWS Lambda for managing the quiz logic helped us create a smooth and interactive chatbot that meets the needs of the client. </br>
+One challenge we faced was that the coding in Lambda was quite complex at first. We overcame this by simplifying everything and writing simple code that we could easily understand and fix. We also tested the chatbot several times to make sure it worked properly with Amazon Lex and that the quiz flowed smoothly for the user. </br>
+Integrating Lambda and Lex seemed easy at first but there are configurations that needs to be set up for Lambda to have Permission to integrate with Lex. After researching and using the Amazon Q AI support system, we were able to navigate the solution by feeding the errors to Q and receiving the feedback to the resolve.
+</p>
+
+
 
 
 ---
