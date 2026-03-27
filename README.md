@@ -170,9 +170,8 @@ We also used AWS Lambda to help manage part of the quiz process and control how 
 One challenge we faced was that the coding in Lambda was quite complex at first. We overcame this by simplifying everything and writing simple code that we could easily understand and fix. We also tested the chatbot several times to make sure it worked properly with Amazon Lex and that the quiz flowed smoothly for the user. </br>
 Integrating Lambda and Lex seemed easy at first but there are configurations that needs to be set up for Lambda to have Permission to integrate with Lex. After researching and using the Amazon Q AI support system, we were able to navigate the solution by feeding the errors to Q and receiving the feedback to the resolve.
 </p>
-
-
-
+<p>Link to how a chatbot is created: <a href="https://drive.google.com/file/d/1HSBhGZRX5nVYqw6Jf6anN4glpGKs0Eel/view?usp=drive_link" 
+       style="text-decoration:none; color:#0366d6; font-weight:bold;"> S Sephaka chatbot creation </a> </p>
 
 ---
 
