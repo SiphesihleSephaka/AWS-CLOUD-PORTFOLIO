@@ -115,21 +115,37 @@
 <p> 2. I select the <b>Monitoring</b> tab to view metrics from Amazon CloudWatch for my EC2 instance. Since the instance is new, there are only a few metrics available, but I can click on a graph to see more details. I understand that Amazon EC2 sends basic monitoring data every five minutes by default, and I can enable detailed one-minute monitoring if needed. I also use the <b>Monitor and troubleshoot</b> option to get an instance screenshot, which shows what the instance console looks like as if a screen were connected.
 </p>
 
-</br>
-</br>
+</br></br>
 <h3><b>TASK 3: Update Your Security Group and Access the Web Server </b></h3>
 </br>
 
 <div align="center">
 <img src="pictures/compute/security g1.png" alt="AWS Lab Credentials" width="400">
 </div>
+<p> 1. In the EC2 Management Console tab, in the left navigation pane, I selected Security Groups located under Network & Security. And I selected the Web Server security group.</p>
 
 
+</br></br>
 <div align="center">
 <img src="pictures/compute/security g2.png" alt="AWS Lab Credentials" width="400">
 </div>
+<p> 2. I selected the Inbound rules tab <b>The security group currently has no rules</b>. I then added a rule. </p>
 
 
+
+</br></br>
 <div align="center">
 <img src="pictures/compute/security g3.png" alt="AWS Lab Credentials" width="400">
 </div>
+<p> 3. I edit the inbound rules, add a new rule with <b>HTTP</b> as the type and <b>Anywhere-IPv4</b> as the source, and then save the rules. </p>
+
+</br></br>
+<h3><b>Task 4: Resize Your Instance: Instance Type and EBS Volume</b></h3>
+</br>
+<div align="center">
+<img src="pictures/compute/stop instance.png" alt="AWS Lab Credentials" width="400">
+</div>
+
+
+
+
