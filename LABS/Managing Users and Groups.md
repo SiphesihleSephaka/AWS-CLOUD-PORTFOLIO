@@ -1,1 +1,1 @@
-<h3>Managing Users and Groups</h3>
+<h1>Managing Users and Groups</h1>
