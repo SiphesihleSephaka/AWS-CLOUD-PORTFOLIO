@@ -119,3 +119,17 @@
 </br>
 <h3><b>TASK 3: Update Your Security Group and Access the Web Server </b></h3>
 </br>
+
+<div align="center">
+<img src="pictures/compute/security g1.png" alt="AWS Lab Credentials" width="400">
+</div>
+
+
+<div align="center">
+<img src="pictures/compute/security g2.png" alt="AWS Lab Credentials" width="400">
+</div>
+
+
+<div align="center">
+<img src="pictures/compute/security g3.png" alt="AWS Lab Credentials" width="400">
+</div>
