@@ -142,6 +142,7 @@
 </br></br>
 <h3><b>Task 4: Resize Your Instance: Instance Type and EBS Volume</b></h3>
 </br>
+
 <div align="center">
 <img src="pictures/compute/stop instance.png" alt="AWS Lab Credentials" width="400">
 <img src="pictures/compute/stop instance 2.png" alt="AWS Lab Credentials" width="400">
@@ -162,9 +163,20 @@
 <img src="pictures/compute/volume 2.png" alt="AWS Lab Credentials" width="400">
 
 </div>
-<p> <b>RESIZE THE EBS VOLUME: </b> I resize my EBS volume by going to <b>Volumes</b> under Elastic Block Store, selecting the volume, and choosing <b>Actions > Modify Volume</b>. I increase the size from <b>8 GiB to 10 GiB</b>, then confirm the change by selecting <b>Modify</b> again.
+<p> 3.  <b>RESIZE THE EBS VOLUME: </b> I resize my EBS volume by going to <b>Volumes</b> under Elastic Block Store, selecting the volume, and choosing <b>Actions > Modify Volume</b>. I increase the size from <b>8 GiB to 10 GiB</b>, then confirm the change by selecting <b>Modify</b> again.
 </p>
 
+<p> 4. I start my resized EC2 instance by selecting it and choosing <b>Instance state > Start instance</b>. Once it starts, it now has more memory and increased disk space. I successfully changed the instance type from <b>t3.micro to t3.small</b> and expanded the disk from <b>8 GiB to 10 GiB</b>.
+</p>
 
+</br></br>
+<h3><b>Task 5: Test Termination Protection </b></h3>
+</br>
+
+<div align="center">
+<img src="pictures/compute/terminate.png" alt="AWS Lab Credentials" width="400">
+</div>
+<p> I go to the <b>Instances</b> page and try to terminate my Web Server instance by selecting <b>Instance state > Terminate (delete) instance</b>, but it fails because termination protection is enabled. I then go to <b>Actions > Instance settings > Change termination protection</b>, uncheck <b>Enable</b>, and save the change. After that, I successfully terminate the instance by selecting <b>Instance state > Terminate instance</b> and confirming.
+</p>
 
 
