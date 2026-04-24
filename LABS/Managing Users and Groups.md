@@ -10,3 +10,12 @@
 <div align="center">
 <img src="pictures/compute/credentials.png" alt="AWS Lab Credentials" width="350">
 </div>
+
+<p> I open the <b>Details</b> drop-down menu and select <b>Show</b> to access the credentials window. I download the <b>labsuser.ppk</b> file and save it, usually in my Downloads folder. I also note the <b>Public IP address</b> and close the details panel. I then download and open <b>PuTTY</b>, and configure it using the provided instructions to connect to my Amazon EC2 Linux instance via SSH. Windows users can skip ahead to the next task.
+</p>
+
+</br>
+
+<h3>TASK 2: Create Users </h3>
+</br>
+
