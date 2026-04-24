@@ -153,7 +153,17 @@
 <div align="center">
 <img src="pictures/compute/type.png" alt="AWS Lab Credentials" width="400">
 </div>
-<p>2. </p>
+<p>2.<b>CHANGE THE INSTANCE TYPE:</b>  I go to the <b>Actions</b> menu, select <b>Instance Settings > Change Instance Type</b>, and set the instance type to <b>t3.small</b>, then confirm the change. When I start the instance again, it will run as a <b>t3.small</b>, which has twice the memory of a <b>t3.micro</b> (noting that other instance types may be restricted in the lab).
+</p>
+
+</br></br>
+<div align="center">
+<img src="pictures/compute/volume 1.png" alt="AWS Lab Credentials" width="400">
+<img src="pictures/compute/volume 2.png" alt="AWS Lab Credentials" width="400">
+
+</div>
+<p> <b>RESIZE THE EBS VOLUME: </b> I resize my EBS volume by going to <b>Volumes</b> under Elastic Block Store, selecting the volume, and choosing <b>Actions > Modify Volume</b>. I increase the size from <b>8 GiB to 10 GiB</b>, then confirm the change by selecting <b>Modify</b> again.
+</p>
 
 
 
