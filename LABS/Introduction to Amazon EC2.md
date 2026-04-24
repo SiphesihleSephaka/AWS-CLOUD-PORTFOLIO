@@ -8,10 +8,11 @@
 </br>
 
 <div align="center">
-<img src="pictures/compute/launch.png" alt="AWS Lab Credentials" width="350">
+<img src="pictures/compute/launch 1.png" alt="AWS Lab Credentials" width="350">
 </div>
 
 <p>1. I opened the AWS Management Console and Select EC2 services where I selected LAUNCH INSTANCE and named my Instance "Web Server"</p>
+</br>
 </br>
 
 <div align="center">
@@ -22,12 +23,14 @@
 <p> Under AMI Machine Image (AMI), I kept it to Amazon Linux 2023* image.</p>
 
 </br> 
+</br>
 
 <div align="center">
 <img src="pictures/compute/instance type.png" alt="AWS Lab Credentials" width="400">
 </div>
 <p>3. This is where I was choosing an instance type. I selected t3.micro instance  </p>
 
+</br>
 </br>
 
 <div align="center">
@@ -37,6 +40,7 @@
 <p>4. Configuring a key pair: Selected proceed without </p>
 
 </br>
+</br>
 
 <div align="center">
 <img src="pictures/compute/vpc.png" alt="AWS Lab Credentials" width="400">
@@ -44,6 +48,7 @@
 
 <p>5. Configuring the network settings: for VPC I selected Lab VPC</p>
 
+</br>
 </br>
 
 <div align="center">
@@ -55,6 +60,7 @@
 <p> A security group acts as a virtual firewall that controls the traffic for one or more instances. When you launch an instance, you associate one or more security groups with the instance. </p>
 
 </br>
+</br>
 
 <div align="center">
 <img src="pictures/compute/storage.png" alt="AWS Lab Credentials" width="400">
@@ -63,6 +69,7 @@
 <p>6. Adding Storage: Amazon EC2 stores data on a network-attached virtual disk called Amazon Elastic Block Store (Amazon EBS). EC2 instance is a default 8 GiB disk volume</p>
 
 
+</br>
 </br>
 
 <div align="center">
@@ -74,7 +81,23 @@
 
 
 </br>
+</br>
 
 <div align="center">
-<img src="pictures/compute/user data.png" alt="AWS Lab Credentials" width="400">
+<img src="pictures/compute/launch 2.png" alt="AWS Lab Credentials" width="400">
+<img src="pictures/compute/launch 3.png" alt="AWS Lab Credentials" width="400">
+<img src="pictures/compute/launch 4.png" alt="AWS Lab Credentials" width="400">
+</div>
+
+<p> 8. This is where I launched my EC2 Instance. I launched my EC2 instance by clicking <b>Launch instance</b> and then view it in the instances list. The instance first shows as <b>Pending</b>, then changes to <b>Running</b> once it starts. After a short wait, it becomes accessible and gets a <b>public DNS name</b> for internet access. I waited until its status shows <b>Running</b> with <b>2/2 checks passed</b> to confirm it’s fully ready.
+</p>
+
+</br>
+</br>
+<h3><b>TASK 2: Monitor your Instance </b></h3>
+</br>
+
+
+<div align="center">
+<img src="pictures/compute/status.png" alt="AWS Lab Credentials" width="400">
 </div>
