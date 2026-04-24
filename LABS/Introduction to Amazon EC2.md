@@ -101,3 +101,21 @@
 <div align="center">
 <img src="pictures/compute/status.png" alt="AWS Lab Credentials" width="400">
 </div>
+
+<p> 1. I monitor my EC2 instance to ensure it is reliable, available, and performing well. I select the instance and check the <b>Status checks</b> tab to see its condition. This helps me quickly identify any hardware or software issues. I confirm that both the <b>system reachability</b> and <b>instance reachability</b> checks have passed, meaning my instance is running properly.
+</p>
+
+
+</br></br>
+
+<div align="center">
+<img src="pictures/compute/monitor.png" alt="AWS Lab Credentials" width="400">
+</div>
+
+<p> 2. I select the <b>Monitoring</b> tab to view metrics from Amazon CloudWatch for my EC2 instance. Since the instance is new, there are only a few metrics available, but I can click on a graph to see more details. I understand that Amazon EC2 sends basic monitoring data every five minutes by default, and I can enable detailed one-minute monitoring if needed. I also use the <b>Monitor and troubleshoot</b> option to get an instance screenshot, which shows what the instance console looks like as if a screen were connected.
+</p>
+
+</br>
+</br>
+<h3><b>TASK 3: Update Your Security Group and Access the Web Server </b></h3>
+</br>
