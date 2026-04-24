@@ -19,3 +19,6 @@
 <h3>TASK 2: Create Users </h3>
 </br>
 
+<div align="center">
+<img src="pictures/compute/pwd.png" alt="AWS Lab Credentials" width="350">
+</div>
