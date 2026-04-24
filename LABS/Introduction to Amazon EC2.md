@@ -144,7 +144,16 @@
 </br>
 <div align="center">
 <img src="pictures/compute/stop instance.png" alt="AWS Lab Credentials" width="400">
+<img src="pictures/compute/stop instance 2.png" alt="AWS Lab Credentials" width="400">
 </div>
+<p> 1. <b>STOP THE INSTANCE:</b> I stop my EC2 instance before resizing it. When I stop it, the instance shuts down and I’m not charged for the instance itself, but I still pay for the attached storage (EBS volumes). In the EC2 console, I select the instance, choose <b> Instance state > Stop instance</b>, and confirm. I then wait until the instance status shows <b>stopped</b>.
+</p>
+
+</br></br>
+<div align="center">
+<img src="pictures/compute/type.png" alt="AWS Lab Credentials" width="400">
+</div>
+<p>2. </p>
 
 
 
