@@ -13,3 +13,15 @@
 
  <p>I open the <b>Details</b> drop-down menu and select <b>Show</b> to view the credentials window. I download the <b>labsuser.ppk</b> file and note the <b>Public IP address</b>, then close the panel. I install and open <b>PuTTY</b>, and configure my session using the provided instructions to connect to my Linux EC2 instance via SSH.
 </p>
+<br/>
+
+
+<br/>
+<h3>Task 2: Explore the Linux man pages</h3>
+ <br/>
+
+<div align="center">
+<img src="pictures/compute/man.png" alt="AWS Lab Credentials" width="350">
+</div>
+<p> I open a PuTTY terminal and view the Linux manual system by typing `man man`. I browse through the man pages and use the arrow keys to navigate sections like <b>NAME, SYNOPSIS, DESCRIPTION, OPTIONS, and EXAMPLES</b>. I pay attention to the <b>DESCRIPTION</b> section and note the command section numbers. When I am done, I exit the manual pages by pressing `q`.
+</p>
