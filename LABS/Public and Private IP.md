@@ -10,6 +10,17 @@
 
 <div align="center">
 <img src="pictures/networking/console.png" alt="AWS Lab Credentials" width="350">
+<img src="pictures/networking/ec2.png" alt="AWS Lab Credentials" width="350">
 </div>
 
 <p>1. I first opened AWS Management Console, and opened EC2 service once the management console had opened. </p>
+
+</br> </br>
+
+
+<div align="center">
+<img src="pictures/networking/instance1.png" alt="AWS Lab Credentials" width="350">
+<img src="pictures/networking/instance2.png" alt="AWS Lab Credentials" width="350">
+</div>
+
+<p> 2. On the EC2 Dashboard from the left navigation pane, I selected Instances. Where there was two instances running. </p>
