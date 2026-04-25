@@ -33,3 +33,23 @@
 </div>
 
 <p> 3. I copy the names and IP addresses of both EC2 instances into a text editor for future reference. I select <b>Instance A</b>, open the <b>Networking</b> tab, and record its public and private IPv4 addresses, along with the VPC and subnet details. I then repeat the same process for <b>Instance B</b> and compare the information to identify any differences between the two instances. </p>
+
+</br>
+
+<h3>TASK 2: Use SSH to connect to an Amazon Linux EC2 instance </h3>
+</br>
+
+<div align="center">
+<img src="pictures/compute/credentials.png" alt="AWS Lab Credentials" width="350">
+</div>
+
+<p>1. I selected the Details dropdown and clicked Show. Downloaded the labsuser.ppk file. And noted the Public IP Address. </p>
+
+</br> </br>
+
+<div align="center">
+<img src="pictures/networking/putty.png" alt="AWS Lab Credentials" width="350">
+</div>
+
+<p> 2. I download <b>PuTTY</b> to use SSH for connecting to the Amazon EC2 instance, then open <b>putty.exe</b> to begin the connection setup. </p>
+
