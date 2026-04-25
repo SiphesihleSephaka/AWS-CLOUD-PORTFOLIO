@@ -22,3 +22,20 @@
 <div align="center">
 <img src="pictures/compute/pwd.png" alt="AWS Lab Credentials" width="350">
 </div>
+
+<p> 1. I validate that I am in the home directory of my current user by using the `pwd` command, which displays the path `/home/ec2-user`. </p>
+
+</br></br>
+
+<div align="center">
+<img src="pictures/compute/arosalez.png" alt="AWS Lab Credentials" width="350">
+</div>
+
+<p> 2. I create the first user, <b>arosalez</b>, by using the `sudo useradd` command. I then set a password for the account with `sudo passwd arosalez`, entering the password twice to confirm it. While typing the password, nothing appears on the screen, so I type it carefully and press Enter.
+</p>
+
+</br></br>
+
+<div align="center">
+<img src="pictures/compute/sudo.png" alt="AWS Lab Credentials" width="350">
+</div>
