@@ -46,8 +46,7 @@ Practical exercises that demonstrate the use of AWS services for different cloud
       <h4>🌐 Networking</h4>
       <ul>
         <li><a href="LABS/Public and Private IP.md" style="text-decoration:none; color:#0366d6;">Public and Private IP addresses</a></li>
-        <li>Configure Security Groups</li>
-        <li>Implement Load Balancing</li>
+        <li><a href="LABS/Troubleshooting a Network Issue.md" style="text-decoration:none; color:#0366d6;">Troubleshooting a Network Issue</a></li>
       </ul>
     </td>
     <!-- Python Column -->
