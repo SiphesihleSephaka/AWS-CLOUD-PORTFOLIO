@@ -81,7 +81,3 @@ Together, these practices improve productivity, increase reliability, and reduce
 
 AWS Training and Certification  
 https://aws.amazon.com/training/
-
-# Author: Stacey Munnik  
-Program: Cloud & Software Engineering  
-Lab: DevOps Automation Concepts
