@@ -8,5 +8,8 @@
 <h3>TASK 1: Investigate the customer's environment </h3>
 </br>
 
+<div align="center">
+<img src="pictures/networking/console.png" alt="AWS Lab Credentials" width="350">
+</div>
 
 <p>1. I first opened AWS Management Console, and opened EC2 service once the management console had opened. </p>
