@@ -64,3 +64,25 @@
 
 <p>3. I configured my Putty to connect to my Linux instance. I entered: <b>Host Name: ec2-user@Public-IP-of-Instance-B</b> and <b>Port: 22 </b> Then I went to: <b>Connection > SSH > Auth </b> and browsed for the labsuser.ppk key file. </p>
 
+
+</br> </br>
+
+<div align="center">
+<img src="pictures/networking/B.png" alt="AWS Lab Credentials" width="350">
+</div>
+
+<p>4. To connect to Instance B. </p>
+<p>login as: ec2-user
+Authenticating with public key
+Last login: ...
+[ec2-user@ip-10-0-1-20 ~]$</p>
+
+
+</br> </br>
+
+<div align="center">
+<img src="pictures/networking/A.png" alt="AWS Lab Credentials" width="350">
+</div>
+
+<p>5. Attempt Connection to Instance A </p>
+<p> I attempted SSH to Instance A. But conuldnt connect. Instance A only has a private IP address, which cannot be reached from outside the VPC. </p>
