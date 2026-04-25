@@ -17,10 +17,19 @@
 
 </br> </br>
 
-
 <div align="center">
 <img src="pictures/networking/instance1.png" alt="AWS Lab Credentials" width="350">
 <img src="pictures/networking/instance2.png" alt="AWS Lab Credentials" width="350">
 </div>
 
 <p> 2. On the EC2 Dashboard from the left navigation pane, I selected Instances. Where there was two instances running. </p>
+
+
+</br> </br>
+
+<div align="center">
+<img src="pictures/networking/instance A.png" alt="AWS Lab Credentials" width="350">
+<img src="pictures/networking/instance B.png" alt="AWS Lab Credentials" width="350">
+</div>
+
+<p> 3. I copy the names and IP addresses of both EC2 instances into a text editor for future reference. I select <b>Instance A</b>, open the <b>Networking</b> tab, and record its public and private IPv4 addresses, along with the VPC and subnet details. I then repeat the same process for <b>Instance B</b> and compare the information to identify any differences between the two instances. </p>
