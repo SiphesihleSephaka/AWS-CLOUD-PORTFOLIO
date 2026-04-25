@@ -45,7 +45,7 @@ Practical exercises that demonstrate the use of AWS services for different cloud
     <td valign="top" width="33%">
       <h4>🌐 Networking</h4>
       <ul>
-        <li>Set Up VPC and Subnets</li>
+        <li>Public and Private IP addresses</li>
         <li>Configure Security Groups</li>
         <li>Implement Load Balancing</li>
       </ul>
