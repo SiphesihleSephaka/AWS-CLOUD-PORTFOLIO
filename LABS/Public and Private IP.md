@@ -53,3 +53,14 @@
 
 <p> 2. I download <b>PuTTY</b> to use SSH for connecting to the Amazon EC2 instance, then open <b>putty.exe</b> to begin the connection setup. </p>
 
+
+</br> </br>
+
+<div align="center">
+<img src="pictures/networking/putty config.png" alt="AWS Lab Credentials" width="350">
+<img src="pictures/networking/putty config 2.png" alt="AWS Lab Credentials" width="350">
+
+</div>
+
+<p>3. I configured my Putty to connect to my Linux instance. I entered: <b>Host Name: ec2-user@Public-IP-of-Instance-B</b> and <b>Port: 22 </b> Then I went to: <b>Connection > SSH > Auth </b> and browsed for the labsuser.ppk key file. </p>
+
