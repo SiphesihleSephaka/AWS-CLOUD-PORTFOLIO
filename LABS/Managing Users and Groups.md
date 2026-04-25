@@ -43,11 +43,23 @@
 <p> 3. I validate that the users were created by running a command to view usernames from the `/etc/passwd` file. This confirms that both <b>ec2-user</b> and <b>arosalez</b> exist. The command helps me clearly view created users in a simpler format.
  </p>
 
- </br></br>
+</br></br>
 
 <div align="center">
 <img src="pictures/compute/cut -d.png" alt="AWS Lab Credentials" width="350">
 </div>
 
 <p> 4. I validate that all users have been created by running a command to display usernames from the `/etc/passwd` file. This confirms that all listed user accounts were successfully added to the system.
+</p>
+
+</br>
+
+<h3>TASK 3: Create Groups </h3>
+</br>
+
+<div align="center">
+<img src="pictures/compute/sales.png" alt="AWS Lab Credentials" width="350">
+</div>
+
+<p> 1. I confirm that I am in my current user’s home directory using the `pwd` command. I then create the <b>Sales</b> group with `sudo groupadd Sales` and verify that it was successfully added by checking the `/etc/group` file. I also note that the system automatically created a separate group for each user added earlier.
 </p>
