@@ -117,11 +117,3 @@ The `is_prime(n)` function uses **trial division** with a square root optimizati
 | **OS** | Amazon Linux (EC2) |
 | **Connection Method** | SSH (PEM key / PuTTY PPK) |
 | **Lab Duration** | ~40 minutes |
-
-
-##  License
-
-This project was completed for educational purposes as part of AWS Training and Certification coursework.
-
-
-*© 2022 Amazon Web Services, Inc. — Lab content referenced for educational use.*
