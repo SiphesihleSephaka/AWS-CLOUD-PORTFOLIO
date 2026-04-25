@@ -123,7 +123,3 @@ This lab demonstrated the importance of automation within DevOps practices. By u
 
 AWS Training and Certification  
 https://aws.amazon.com/training/
-
-# Author: Stacey Munnik  
-Program: Cloud & Software Engineering  
-Lab: DevOps Automation Concepts
