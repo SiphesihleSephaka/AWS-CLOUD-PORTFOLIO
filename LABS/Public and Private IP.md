@@ -7,3 +7,6 @@
 
 <h3>TASK 1: Investigate the customer's environment </h3>
 </br>
+
+
+<p>1. I first opened AWS Management Console, and opened EC2 service once the management console had opened. </p>
