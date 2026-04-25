@@ -86,3 +86,9 @@ Last login: ...
 
 <p>5. Attempt Connection to Instance A </p>
 <p> I attempted SSH to Instance A. But conuldnt connect. Instance A only has a private IP address, which cannot be reached from outside the VPC. </p>
+
+</br>
+
+<h3>TASK 3:Send the Response to the customer (group activity) </h3>
+</br>
+<p>In this task, participants work in pairs to present their findings. One person acts as Jess the customer, while the other acts as the cloud support engineer and explains the troubleshooting results and recommendations. The activity is intended to take 5–10 minutes, or one student may present to the class if group work is not possible. </p>
