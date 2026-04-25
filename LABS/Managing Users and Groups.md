@@ -63,3 +63,13 @@
 
 <p> 1. I confirm that I am in my current user’s home directory using the `pwd` command. I then create the <b>Sales</b> group with `sudo groupadd Sales` and verify that it was successfully added by checking the `/etc/group` file. I also note that the system automatically created a separate group for each user added earlier.
 </p>
+
+
+</br></br>
+
+<div align="center">
+<img src="pictures/compute/-g.png" alt="AWS Lab Credentials" width="350">
+</div>
+
+<p> 2. I add the user <b>arosalez</b> to the <b>Sales</b> group by using the `sudo usermod -a -G Sales arosalez` command.
+</p>
