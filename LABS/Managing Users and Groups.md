@@ -39,3 +39,15 @@
 <div align="center">
 <img src="pictures/compute/sudo.png" alt="AWS Lab Credentials" width="350">
 </div>
+
+<p> 3. I validate that the users were created by running a command to view usernames from the `/etc/passwd` file. This confirms that both <b>ec2-user</b> and <b>arosalez</b> exist. The command helps me clearly view created users in a simpler format.
+ </p>
+
+ </br></br>
+
+<div align="center">
+<img src="pictures/compute/cut -d.png" alt="AWS Lab Credentials" width="350">
+</div>
+
+<p> 4. I validate that all users have been created by running a command to display usernames from the `/etc/passwd` file. This confirms that all listed user accounts were successfully added to the system.
+</p>
