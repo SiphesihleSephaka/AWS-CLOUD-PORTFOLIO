@@ -53,9 +53,9 @@ Practical exercises that demonstrate the use of AWS services for different cloud
     <td valign="top" width="33%">
       <h4>🐍 Python</h4>
       <ul>
-        <li>Use Boto3 to Automate AWS</li>
-        <li>Analyze S3 Data</li>
-        <li>Deploy Python Script on EC2</li>
+        <li><a href="LABS/Challenge Python Exercise.md" style="text-decoration:none; color:#0366d6;">Challenge Python Exercise</a></li>
+        <li><a href="LABS/Compare and Contrast Automation and Orchestration.md" style="text-decoration:none; color:#0366d6;">Compare and Contrast Automation and Orchestration</a></li>
+        <li><a href="LABS/Explore the Value of Automation.md" style="text-decoration:none; color:#0366d6;">Explore the Value of Automation</a></li>
       </ul>
     </td>
   </tr>
