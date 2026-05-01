@@ -125,6 +125,7 @@ The AWS services I used were **Amazon EC2**, **AWS Identity and Access Managemen
 </div>
 </br>
 Earners of this badge have completed the AWS re/Start program. AWS re/Start is a skills development and job training program that prepares learners for careers in the cloud. Each cohort, supported by professional mentors and accredited trainers, completes training featuring real-world scenario-based learning, hands-on labs, and coursework.
+<a href="https://www.credly.com/badges/396ed1bb-5abb-49ba-927c-1e8f472da415/public_url"  style="text-decoration:none; color:#0366d6; font-weight:bold;"> LINK TO THE BADGE </a>
 
 ---
 
