@@ -114,7 +114,7 @@ In this activity, I learned about how **IAM users, roles, and groups** work and 
 
 The AWS services I used were **Amazon EC2**, **AWS Identity and Access Management (IAM)**, and **Amazon RDS**.
 
-</br></br>
+</br>
 
 <h3 align='center'>AWS ReStart Graduate Badge </h3>
 
