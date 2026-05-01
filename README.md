@@ -114,6 +114,18 @@ In this activity, I learned about how **IAM users, roles, and groups** work and 
 
 The AWS services I used were **Amazon EC2**, **AWS Identity and Access Management (IAM)**, and **Amazon RDS**.
 
+</br></br>
+
+<h3 align='center'>AWS ReStart Graduate Badge </h3>
+
+<div align="center">
+  <img src="Certifications & Badges/Picture/restart badge.png" 
+       alt="AWS Restart"
+       style="width:300px; border-radius:10px;">
+</div>
+</br>
+Earners of this badge have completed the AWS re/Start program. AWS re/Start is a skills development and job training program that prepares learners for careers in the cloud. Each cohort, supported by professional mentors and accredited trainers, completes training featuring real-world scenario-based learning, hands-on labs, and coursework.
+
 ---
 
 ### 🚀 Projects
